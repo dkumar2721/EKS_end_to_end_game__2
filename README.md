@@ -4,6 +4,16 @@ In this Project. i have Deployed  a game-0248 appilcation . It is a dynamic 2 ti
 #step_1
  I created a cluster name "demo-cluster-1" 
 
+#step-2 
+ Then created a   separate bfargate on cluster .
+
+ #step-3:
+ created a deployment , service and ingree in cluster. names game-0248.
+
+ #step-4:
+
+
+
 
 
 
